@@ -1,0 +1,2 @@
+# React useEffect Cleanup Function Bug
+This repository demonstrates a common bug related to the cleanup function in React's `useEffect` hook.  The provided code snippet shows an example of this and the solution. 
